@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Guia Prático para Segurança Online 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Guia prático para segurança online. Aborda temas relevantes, tais como: proteção de e-mails, criação de senhas seguras, cuidados com redes wifi, phishing e backup de dados.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e geraçao do conteudo inicial.
+- IA Generativa **[Claude AI](https://claude.ai)** para revisão técnica e gramatical do texto e a elaboração da seção sobre backup de dados.
+- IA Generativa **[DALL-E](https://openai.com)** para criar a imagem da capa.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o ChatGPT para gerar primeiramente a estrutura com os topicos que foram abordados neste guia. Depois criei os textos de cada topico com o ChatGPT. Depois fiz a revisao do conteudo com Claude AI e tambem o topico de backup de dados. No final usei a DALL-E para gerar imagens para a capa e guia e escolhi uma delas para usar. 
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+Criação de um guia prático de segurança cibernética utilizando inteligência artificial para gerar o conteúdo do manual.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK](https://drive.google.com/file/d/1VkXa7cSinO2v7Ia443tCRulTdVA0KzH5/view?usp=drivesdk)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
